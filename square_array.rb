@@ -3,4 +3,5 @@ def square_array(array).each do
 end
 
 def square_array(new_numbers).each do
-  
+  new_numbers = [9,10,16,25]
+end
